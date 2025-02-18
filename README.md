@@ -18,7 +18,7 @@ Ensure you have Python installed on your system.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/finance101.git
+   git clone https://github.com/wanazhar/finance101.git
    cd finance101
    ```
 2. Install dependencies:
